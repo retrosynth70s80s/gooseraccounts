@@ -29,7 +29,7 @@ mkdir /sdcard/MyTermux/ -p
 cd /sdcard/MyTermux
 ```
 ```
-git clone https://github.com/luccawill/saaccount
+git clone https://github.com/retrosynth70s80s/retrosynth70s80s-goo-ser-acc
 ```
 ```
 cd /sdcard/MyTermux/saaccount
