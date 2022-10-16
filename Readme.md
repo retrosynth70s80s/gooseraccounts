@@ -32,7 +32,7 @@ cd /sdcard/MyTermux
 git clone https://github.com/retrosynth70s80s/gooseraccounts
 ```
 ```
-cd /sdcard/MyTermux/saaccount
+cd /sdcard/MyTermux/gooseraccounts
 ```
 ```
 pip3 install -r requirements.txt
